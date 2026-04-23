@@ -1,0 +1,23 @@
+# Unity Generated Folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Unity / IDE Settings
+UserSettings/
+.vs/
+.vsconfig
+
+# Plastic SCM (if unused in repo)
+.plastic/
+
+# Visual Studio / C# Files
+*.csproj
+*.sln
+
+# Custom / Project-specific
+Zips/
+ignore.conf
