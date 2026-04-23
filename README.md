@@ -43,7 +43,7 @@ I decided to expand it into a fully usable design tool, focusing on clean archit
 
 The project is built around a modular, action-based architecture:
 
-* **Action System**
+* **ActionLogger**
   Each user interaction is encapsulated as an object with its own undo and redo logic.
 
 * **CanvasManager**
@@ -52,13 +52,13 @@ The project is built around a modular, action-based architecture:
 * **DesignEditor**
   Handles rendering and drawing logic for the design scene.
 
-* **UI Manager**
+* **UIManager**
   Controls all UI elements and ensures they stay in sync with the system state.
 
 * **SaveSystem**
   A static system responsible for saving and loading designs.
 
-* **Camera System**
+* **CameraMovement**
   Handles zooming and panning independently from rendering logic.
 
 ---
@@ -76,7 +76,7 @@ The project is built around a modular, action-based architecture:
 ### Option 2: Edit the Project
 
 1. Clone the repository
-2. Open the project using Unity `2022.3.62f2`
+2. Open the project using Unity `2022.3.62f2` (use other versions at your own risk)
 3. Start the project from the editor
 
 ---
