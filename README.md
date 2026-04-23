@@ -16,10 +16,10 @@ I decided to expand it into a fully usable design tool, focusing on clean archit
 ## Demo
 
 Showcase GIF:
-![Showcase](media/Showcase.gif)
+![Showcase](Media/Showcase.gif)
 
 Eiffel Tower designed using tool:
-![Eiffel Tower](media/Eiffel-Tower-Design.png)
+![Eiffel Tower](Media/Eiffel-Tower-Design.png)
 
 > The tool is included in the `Builds/` folder.
 > If you just want to use the tool (not modify it), download the contents of that folder and run the executable.
