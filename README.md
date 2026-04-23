@@ -16,9 +16,11 @@ I decided to expand it into a fully usable design tool, focusing on clean archit
 ## Demo
 
 Showcase GIF:
+
 ![Showcase](Media/Showcase.gif)
 
 Eiffel Tower designed using tool:
+
 ![Eiffel Tower](Media/Eiffel-Tower-Design.png)
 
 > The tool is included in the `Builds/` folder.
